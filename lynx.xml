@@ -6,7 +6,7 @@
 
   <!-- Kernel -->
   <project name="kernel/common" path="kernel/google/gs201/private/gs-google" remote="aosp" revision="refs/heads/android-gs-lynx-6.1-android15-qpr2-beta" />
-  <project name="kernel/devices/google/lynx" path="kernel/google/gs201/private/devices/google/lynx" remote="aosp" revision="refs/tags/android-15-qpr1-beta-2_r0.9" />
+  <project name="kernel/devices/google/lynx" path="kernel/google/gs201/private/devices/google/lynx" remote="aosp" revision="refs/tags/android-15-qpr2-beta-1_r0.9" />
 
   <!-- Link -->
   <linkfile src="os_pickup.bp" dest="kernel/google/gs201/private/google-modules/Android.bp" />
