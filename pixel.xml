@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Pixel 6/6 Pro/6a/7/7 Pro/7a/Tablet/Fold kernel modules -->
-  <project path="kernel/google/gs201/private/devices/google/lynx" name="kernel/devices/google/lynx" groups="pixel-extra" remote="aosp" revision="refs/tags/android-15-qpr1-beta-2_r0.9" />
   <project path="kernel/google/gs201/private/google-modules/amplifiers" name="kernel/google-modules/amplifiers" groups="pixel-extra" remote="aosp" revision="refs/tags/android-15-qpr1-beta-2_r0.9" />
   <project path="kernel/google/gs201/private/google-modules/aoc" name="kernel/google-modules/aoc" groups="pixel-extra" remote="aosp" revision="refs/tags/android-15-qpr1-beta-2_r0.9" />
   <project path="kernel/google/gs201/private/google-modules/aoc_ipc" name="kernel/google-modules/aoc-ipc" groups="pixel-extra" remote="aosp" revision="refs/tags/android-15-qpr1-beta-2_r0.9" />
