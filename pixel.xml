@@ -25,7 +25,8 @@
   <project path="kernel/google/gs201/private/google-modules/touch/novatek" name="kernel/google-modules/touch/novatek_touch" remote="aosp" revision="refs/tags/android-15-qpr2-beta-1_r0.9" />
   <project path="kernel/google/gs201/private/google-modules/touch/sec" name="kernel/google-modules/touch/sec_touch" remote="aosp" revision="refs/tags/android-15-qpr2-beta-1_r0.9" />
   <project path="kernel/google/gs201/private/google-modules/touch/synaptics" name="kernel/google-modules/touch/synaptics_touch" remote="aosp" revision="refs/tags/android-15-qpr2-beta-1_r0.9" />
-  <project path="kernel/google/gs201/private/google-modules/uwb" name="kernel/google-modules/uwb" remote="aosp" revision="refs/tags/android-15-qpr2-beta-1_r0.9" />
+  <project path="private/google-modules/uwb/qorvo/dw3000" name="kernel/google-modules/uwb/qorvo/dw3000" remote="aosp" revision="refs/tags/android-15-qpr2-beta-1_r0.9" />
+  <project path="private/google-modules/uwb/qorvo/qm35" name="kernel/google-modules/uwb/qorvo/qm35" remote="aosp" revision="refs/tags/android-15-qpr2-beta-1_r0.9" />
   <project path="kernel/google/gs201/private/google-modules/video/gchips" name="kernel/google-modules/video/gchips" remote="aosp" revision="refs/tags/android-15-qpr2-beta-1_r0.9" />
   <project path="kernel/google/gs201/private/google-modules/wlan/bcmdhd4389" name="kernel/google-modules/wlan/bcmdhd/bcm4389" remote="aosp" revision="refs/tags/android-15-qpr2-beta-1_r0.9" />
   <project path="kernel/google/gs201/private/google-modules/wlan/dhd43752p" name="kernel/google-modules/wlan/syna/dhd43752p" remote="aosp" revision="refs/tags/android-15-qpr2-beta-1_r0.9" />

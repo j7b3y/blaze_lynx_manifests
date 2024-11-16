@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="vendor_gapps" path="vendor/gapps" remote="j7b3y" revision="cr10" />
+  <project name="vendor_gapps" path="vendor/gapps" remote="j7b3y" revision="cr11" />
 </manifest>
