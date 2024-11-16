@@ -10,5 +10,5 @@
   <project name="device/google/lynx-kernels/5.10" path="device/google/lynx-kernels/5.10" remote="aosp" />
 
   <!-- Vendor-->
-  <project name="crdroidandroid/proprietary_vendor_google_lynx" path="vendor/google/lynx" remote="github" revision="15.0" />
+  <project name="proprietary_vendor_google_lynx" path="vendor/google/lynx" remote="j7b3y" revision="cr11" />
 </manifest>
