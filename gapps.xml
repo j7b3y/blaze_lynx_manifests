@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="mindthegapps" fetch="https://gitlab.com/MindTheGapps" />
-  <project name="MindTheGapps/vendor_gapps" path="vendor/gapps" remote="mindthegapps" revision="vic" />
+  <project name="vendor_gapps" path="vendor/gapps" remote="mindthegapps" revision="vic" />
 </manifest>
