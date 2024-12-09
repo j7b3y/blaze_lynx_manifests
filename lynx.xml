@@ -10,5 +10,5 @@
   <project name="device/google/lynx-kernels/6.1" path="device/google/lynx-kernels/6.1" remote="aosp" revision="main" />
 
   <!-- Vendor-->
-  <project name="proprietary_vendor_google_lynx" path="vendor/google/lynx" remote="j7b3y" revision="cr11" />
+  <project name="TheMuppets/proprietary_vendor_google_lynx" path="vendor/google/lynx" remote="github" revision="lineage-22.0" />
 </manifest>
