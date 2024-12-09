@@ -5,7 +5,7 @@
   <project name="android_device_xiaomi_sm8450-common" path="device/xiaomi/sm8450-common" remote="j7b3y" revision="cr11" />
 
   <!-- Xiaomi common hardware -->
-  <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="j7b3y" revision="15" />
+  <project path="hardware/xiaomi" name="crdroidandroid/android_hardware_xiaomi" remote="github" revision="15.0" />
 
   <!-- Kernel -->
   <project name="cupid-development/android_kernel_xiaomi_sm8450" path="kernel/xiaomi/sm8450" remote="github" revision="lineage-22.0" />
