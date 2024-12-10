@@ -7,7 +7,7 @@
   <project name="LineageOS/android_device_google_gs-common" path="device/google/gs-common" remote="github" revision="lineage-22.0" />
 
   <!-- Kernel -->
-  <project name="device/google/lynx-kernels/6.1" path="device/google/lynx-kernels/6.1" remote="aosp" revision="main" />
+  <project name="device/google/lynx-kernels/5.10" path="device/google/lynx-kernels/5.10" remote="aosp" revision="refs/tags/android-15.0.0_r8" />
 
   <!-- Vendor-->
   <project name="TheMuppets/proprietary_vendor_google_lynx" path="vendor/google/lynx" remote="github" revision="lineage-22.0" />
