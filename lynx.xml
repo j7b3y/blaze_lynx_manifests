@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Device trees -->
-  <project name="android_device_google_lynx" path="device/google/lynx" remote="j7b3y" revision="cr11" />
+  <project name="android_device_google_lynx" path="device/google/lynx" remote="j7b3y" revision="cr11-5.10" />
   <project name="LineageOS/android_device_google_gs201" path="device/google/gs201" remote="github" revision="lineage-22.0" />
   <project name="LineageOS/android_device_google_gs101" path="device/google/gs101" remote="github" revision="lineage-22.0" />
   <project name="LineageOS/android_device_google_gs-common" path="device/google/gs-common" remote="github" revision="lineage-22.0" />
