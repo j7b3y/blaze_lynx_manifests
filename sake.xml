@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Device trees -->
-  <project name="android_device_xiaomi_sake" path="device/asus/sake" remote="j7b3y" revision="cr11" />
+  <project name="android_device_asus_sake" path="device/asus/sake" remote="j7b3y" revision="cr11" />
 
   <!-- Kernel -->
   <project name="android/android_kernel_asus_sm8350" path="kernel/asus/sm8350" remote="j7b3y" revision="lineage-21" />
