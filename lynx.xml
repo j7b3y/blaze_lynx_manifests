@@ -13,5 +13,5 @@
   <project name="Evolution-X-Devices/packages_apps_PixelParts" path="packages/apps/PixelParts" remote="github" revision="vic" />
 
   <!-- Vendor-->
-  <project name="TheMuppets/proprietary_vendor_google_lynx" path="vendor/google/lynx" remote="github" revision="lineage-22.0" />
+  <project name="crdroidandroid/proprietary_vendor_google_lynx" path="vendor/google/lynx" remote="github" revision="15.0" />
 </manifest>
