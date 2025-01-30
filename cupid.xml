@@ -8,9 +8,9 @@
   <project path="hardware/xiaomi" name="crdroidandroid/android_hardware_xiaomi" remote="github" revision="15.0" />
 
   <!-- Kernel -->
-  <project name="cupid-development/android_kernel_xiaomi_sm8450" path="kernel/xiaomi/sm8450" remote="github" revision="lineage-22.0" />
-  <project name="cupid-development/android_kernel_xiaomi_sm8450-devicetrees" path="kernel/xiaomi/sm8450-devicetrees" remote="github" revision="lineage-22.0" />
-  <project name="cupid-development/android_kernel_xiaomi_sm8450-modules" path="kernel/xiaomi/sm8450-modules" remote="github" revision="lineage-22.0" />
+  <project name="cupid-development/android_kernel_xiaomi_sm8450" path="kernel/xiaomi/sm8450" remote="github" revision="lineage-22.1" />
+  <project name="cupid-development/android_kernel_xiaomi_sm8450-devicetrees" path="kernel/xiaomi/sm8450-devicetrees" remote="github" revision="lineage-22.1" />
+  <project name="cupid-development/android_kernel_xiaomi_sm8450-modules" path="kernel/xiaomi/sm8450-modules" remote="github" revision="lineage-22.1" />
 
   <!-- Vendor -->
   <project name="proprietary_vendor_xiaomi_cupid" path="vendor/xiaomi/cupid" remote="j7b3y" revision="lineage-22.0" />
